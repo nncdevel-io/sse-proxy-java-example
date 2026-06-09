@@ -1,0 +1,5 @@
+target/*
+!target/*.jar
+.git/
+.mvn/
+.DS_Store
